@@ -33,7 +33,7 @@ df_val_counts = pd.DataFrame(value_counts)df_value_counts = df_val_counts.reset_
 
 df_value_counts.plot(x ='Continent', y='Coup counts', kind = 'bar')
 
-
+[1]J. M. P. &. C. L. Thyne, "Global instances of coups from 1950 to 2010: A new dataset," Journal of Peace Research, vol. 48, no. 2, pp. 249-259, 2011. 
 
 # Output1:
 
